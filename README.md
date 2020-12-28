@@ -1,6 +1,6 @@
 ## Analysis - Military Expenditure - (2010-2019)
 
-This report analyzes the trends in military expenditure relative to a country's Gross Domestic Product (GDP) during 2010 - 2019 :
+#### This report analyzes the trends in military expenditure relative to a country's Gross Domestic Product (GDP) during 2010 - 2019 :
 
 • China
 • Russia
@@ -13,7 +13,7 @@ This report analyzes the trends in military expenditure relative to a country's 
 • Israel
 • South Korea
 
-Data Sources :
+#### Data Sources :
 
-• Military Expenditure Data - Stockholm International Peace Research Institute (SIPRI)
-• Gross Domestic Product (GDP) Data - The World Bank (WBG)
+Military Expenditure Data - Stockholm International Peace Research Institute (SIPRI),
+Gross Domestic Product (GDP) Data - The World Bank (WBG)
