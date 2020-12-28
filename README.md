@@ -1,4 +1,4 @@
-## Analysis - Military Expenditure - (2010-2019)
+## Military Expenditure Analysis
 
 #### This report analyzes the trends in military expenditure relative to a country's Gross Domestic Product (GDP) during 2010 - 2019 :
 
